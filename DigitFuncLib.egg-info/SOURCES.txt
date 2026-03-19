@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+DigitFuncLib/__init__.py
+DigitFuncLib/functions.py
+DigitFuncLib.egg-info/PKG-INFO
+DigitFuncLib.egg-info/SOURCES.txt
+DigitFuncLib.egg-info/dependency_links.txt
+DigitFuncLib.egg-info/top_level.txt
