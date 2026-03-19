@@ -1,1 +1,1 @@
-from .functions import hello
+from .functions import sum_of_digits
